@@ -46,3 +46,7 @@ https://api.codenation.dev/v1/challenge/dev-ps/submit-solution?token=SEU_TOKEN
 <p><b>OBS:</b> a API espera um arquivo sendo enviado como multipart/form-data, como se fosse enviado por um formulário HTML, com um campo do tipo file com o nome answer. Considere isso ao enviar o arquivo.</p>
 
 <p>O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode submeter quantas vezes achar necessário, mas a API não vai permitir mais de uma submissão por minuto.</p>
+
+## MEU RESULTADO:
+
+<img src="./result.png">
